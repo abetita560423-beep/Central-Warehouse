@@ -67,7 +67,7 @@ public class Main {
     private static void storeItem() {
         System.out.print("Enter Item ID: ");
         String id = sc.nextLine();
-        System.out.print("Enter Description: ");
+        System.out.print("Enter Item Name: ");
         String desc = sc.nextLine();
         System.out.print("Enter Quantity: ");
         String quantity = sc.nextLine();
